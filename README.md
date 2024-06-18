@@ -1,4 +1,4 @@
-# Hotel Domain Analysis using Python
+# Hospitality Domain Analysis using Python
   This project is part of data analytics bootcamp at codebasics.
   
 ## Problem Statement
